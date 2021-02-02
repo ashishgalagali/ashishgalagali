@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I have 4+ years of professional experience as a Java backend developer. I have worked for two different startups in Bengaluru, India, before pursuing my Masters in Software Engineering at Rochester Institute of Technology. I am looking for a full-time software engineer opportunity, starting June 2021.
+
+- 🔭 I’m currently working on https://github.com/andymeneely/git-churn
+- 📫 How to reach me: https://www.linkedin.com/in/ashishgalagali/
+- ⚡ Fun fact: Both wrist watches and lighters use Piezo Crystal.
+
+
+
 <!--
 **ashishgalagali/ashishgalagali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
