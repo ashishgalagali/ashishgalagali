@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I have 4+ years of professional experience as a Java backend developer. I have worked for two different startups in Bengaluru, India, before pursuing my Masters in Software Engineering at Rochester Institute of Technology. I am looking for a full-time software engineer opportunity, starting June 2021.
+Software Engineer with 7+ years of experience in designing scalable systems and leading cross-functional teams. Led key initiatives at AWS to enhance Redshift SLAs, automate root cause analysis, and develop real-time monitoring tools. Experienced in mentoring interns, onboarding new hires, and driving team success. Expertise in cloud technologies, big data, microservices, and search and analytics solutions. Proven track record of delivering impactful solutions at Amazon, Paytm, and Infrrd.
 
-- 🔭 I’m currently working on https://github.com/andymeneely/git-churn
+- 🔭 GA work: www.github.com/andymeneely/git-churn
 - 📫 How to reach me: https://www.linkedin.com/in/ashishgalagali/
 - ⚡ Fun fact: Both wrist watches and lighters use Piezo Crystal.
 
